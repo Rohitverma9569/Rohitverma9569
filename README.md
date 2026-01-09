@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 my portfilio [Nikhil.portfolio](https://portfolio-taupe-five-93.vercel.app/)
+- 👨‍💻 my portfilio [Rohit Portfolio](https://portfolio-taupe-five-93.vercel.app/)
 
 - 💬 Ask me about **Web development, Data Structure and Algorithm**
 
